@@ -68,3 +68,17 @@ MAE: ₹7,184
 ## Final Conclusion
 The analysis reveals that salary prediction in this dataset is largely driven by structured factors such as geography, experience, and job role, with limited non-linear complexity.
 Linear Regression performed best, indicating that the underlying relationships are mostly linear.
+
+
+### Technologies Used
+Python 
+Pandas & NumPy
+Scikit-learn
+Matplotlib / Seaborn
+Pandas & NumPy
+
+# Author
+# Himanshu Kapoor
+Scikit-
+learn
+Matplotlib / Seaborn
