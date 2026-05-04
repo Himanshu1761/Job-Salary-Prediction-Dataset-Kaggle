@@ -79,6 +79,5 @@ Pandas & NumPy
 
 # Author
 # Himanshu Kapoor
-Scikit-
 learn
 Matplotlib / Seaborn
